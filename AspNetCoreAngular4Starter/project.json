@@ -71,7 +71,7 @@
     },
 
     "tooling": {
-        "defaultNamespace": "MMIT.PharmaAdmin.UI"
+        "defaultNamespace": "Notetech.AspNetAngular.UI"
     },
     "configurations": {
         "Demo": {},
